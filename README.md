@@ -1,4 +1,5 @@
-# A generalized phase I/II dose optimization trial design with multi-categorical and multi-graded outcomes
+# A Generalized Phase I/II Dose Optimization Trial Design with Multi-categorical and Multi-graded Outcomes
+
 R codes to implement the simulation study in "A generalized phase I/II dose optimization trial design with multi-categorical and multi-graded outcomes" and corresponding output data for visualization reproduction.
 
 # Description
